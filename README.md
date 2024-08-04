@@ -14,25 +14,14 @@ In this project, we aimed to develop a machine learning model to predict hotel b
 **Model Development and Evaluation:**
 Built and evaluated three machine learning models: Decision Tree, Random Forest, and XGBoost.
 Compared model performance using metrics like Accuracy, Precision, Recall, and F1-Score.
-Decision Tree:
-Accuracy: 0.75
-Precision: 0.99
-Recall: 0.33
-F1-Score: 0.49
 
-Random Forest:
-Accuracy: 0.80
-Precision: 0.93
-Recall: 0.49
-F1-Score: 0.64
+Decision Tree:Accuracy: 0.75, Precision: 0.99, Recall: 0.33, F1-Score: 0.49
 
-XGBoost:
-Accuracy: 0.89
-Precision: 0.0.89
-Recall: 0.78
-F1-Score: 0.84
-Feature Importance:
+Random Forest: Accuracy: 0.80, Precision: 0.93, Recall: 0.49, F1-Score: 0.64
 
+XGBoost: Accuracy: 0.89, Precision: 0.0.89, Recall: 0.78, F1-Score: 0.84
+
+**Feature Importance:**
 Key features included lead time, deposit type, customer type, and booking changes.
 
 ## Results and Conclusion
